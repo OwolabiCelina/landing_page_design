@@ -1,0 +1,83 @@
+.header-container{
+    background-color: black;
+    padding: 10px;
+}
+.logo{
+    color: white;
+    font-style: italic;
+}
+.menu-options{
+    color: white;
+}
+.menu-options ul{
+    display: inline;
+    padding-left: 48%;
+}
+.menu-options li{
+    display: inline;
+    text-transform: capitalize;
+    padding: 0.3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.landing-page-body{
+    background-color: grey;
+    min-height: 43rem;
+    max-height: 43rem;
+    margin: 0;
+    text-align: center;
+
+}
+
+.landing-page-body h1{
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:80px;
+}
+.landing-page-body h3{
+    margin: 0;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.landing-page-body .inner-body{
+    padding-top: 2%;
+    color: white;
+}
+
+.landing-page-body .number-11{
+    font-size: 9rem;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.landing-page-body p{
+    margin: 50px;
+    text-transform: capitalize;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.landing-page-body .button{
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.landing-page-body .button{
+    color: white;
+    border: 2px solid white;
+    border-radius: 3px;
+    padding: 10px 80px 10px 80px;
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.landing-page-body span+span{
+    background-color: blue;
+}
